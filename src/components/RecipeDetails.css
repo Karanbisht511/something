@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+#recipe-detail-container {
+    margin: 10px;
+    padding: 10px;
+}
